@@ -24,15 +24,15 @@
   /* 상단 배너 */
   /* 상단 배너 배경 색 */
   /* --top-banner-bg: var(--body-bg); */
-  --top-banner-bg: #000000;
+  --top-banner-bg: #FFB381;
   /* 상단 배너 글자 색 */
-  --top-banner-font: #ffffff;
+  --top-banner-font: #1d1c1c;
 
   /* 빅 버튼 */
   /* 빅 버튼 배경 색 */
-  --cta-button-bg: #01c0e2;
+  --cta-button-bg: #FCFF62;
   /* 빅 버튼 글자 색 */
-  --cta-button-font: #ffffff;
+  --cta-button-font: #0e0d0d;
 
   /* 상단 배너 버튼 */
   /* 상단 배너 버튼 배경 색 */
